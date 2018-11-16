@@ -1,5 +1,5 @@
-## NTIRE 2017 Super-Resolution Challenge - DWSRx2
-The testing code for [_Deep wavelet prediction for image super-resolution, CVPRW, 2017_](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/html/Guo_Deep_Wavelet_Prediction_CVPR_2017_paper.html).
+## Deep wavelet prediction for image super-resolution
+The testing code for [_Deep wavelet prediction for image super-resolution, CVPRW, 2017_](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/html/Guo_Deep_Wavelet_Prediction_CVPR_2017_paper.html), NTIRE 2017 Super-Resolution Challenge - DWSRx2.
 
 ### Other scale: [DWSRx3](https://github.com/tT0NG/DWSRx3);  [DWSRx4](https://github.com/tT0NG/DWSRx4)
 
